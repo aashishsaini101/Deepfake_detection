@@ -1,0 +1,7 @@
+Model,Aggregation,Macro_AUROC,Valid_Sources
+Spatial-only,mean,0.6292695621679057,6
+Spatial-only,median,0.6259940804932974,6
+Spatial-only,max,0.6255833260019054,6
+Spatial + Temporal Transformer,mean,0.94795662076364,6
+Spatial + Temporal Transformer,median,0.9137730575436992,6
+Spatial + Temporal Transformer,max,0.8936004751939505,6

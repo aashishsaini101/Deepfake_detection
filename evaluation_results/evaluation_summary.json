@@ -1,9 +1,0 @@
-{
-    "checkpoint_name": "best_checkpoint.pth",
-    "aggregation_method": "mean",
-    "batch_size": 64,
-    "threshold": 0.5,
-    "gpu": "NVIDIA GeForce RTX 3080 Ti",
-    "date": "2026-08-07 20:16:08",
-    "pytorch_version": "2.5.1+cu121"
-}
